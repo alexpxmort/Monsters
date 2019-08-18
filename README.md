@@ -1,3 +1,3 @@
 # Monsters
 App feito em React
-Para acesssar o site entre no link:https://alexpxmort.github.io/Monsters/
+Para acesssar o site entre no link: <a href='https://alexpxmort.github.io/Monsters/' target='_blank'></a>
